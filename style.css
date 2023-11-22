@@ -8,6 +8,8 @@ h1{
     text-align: center;
     color: blue;
     background-color: beige;
+    border: 10px black;
+    padding: 20px;
 }
 
 body{
@@ -17,4 +19,5 @@ body{
 #banner{
    width: 100%; 
    height: 100px;
+   bo
 }
