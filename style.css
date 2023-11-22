@@ -13,3 +13,7 @@ h1{
 body{
     background-color: bisque;
 }
+
+#banner{
+   width: 100%; 
+}
